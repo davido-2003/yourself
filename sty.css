@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+section{
+    font-family: sans-serif;
+    margin: auto;
+    width: 30%;
+    text-align: center;
+    color: blue;
+    padding: 8px;
+    box-shadow: 0 0 8px grey;
+    background-color: orange;
+}
+input{
+    border-radius: 15px;
+    background-color: lightgray;
+    box-shadow: 2px 5px 10px black;
+    border: none;
+    padding: 5px;
+}
+button{
+    margin-top: 10px;
+    background-color: blue;
+    border-radius: 25px;
+    padding: 8px;
+    border: none;
+    box-shadow: 2px 5px 10px black;
+    color: white;
+}
+.bgs{
+    background-image: url(image/The-train.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
